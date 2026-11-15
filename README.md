@@ -31,6 +31,30 @@
 
 ## 📖 查阅建议
 
+### PPT 原文件下载
+
+点击下列链接下载完整 PPT，下载后使用 PowerPoint 或 WPS 打开：
+
+| 项目 | 下载 |
+| :--- | :--- |
+| 医治双辉 | [下载作品介绍 PPT](https://github.com/fucheng2004/TOP-competition-resources/raw/refs/heads/main/医治双辉/作品介绍ppt.pptx) |
+| 宋韵新风 | [下载《宋境新生》PPT](https://github.com/fucheng2004/TOP-competition-resources/raw/refs/heads/main/宋韵新风/宋境新生.pptx) |
+| 思数慧答 | [下载项目 PPT](https://github.com/fucheng2004/TOP-competition-resources/raw/refs/heads/main/思数慧答/思数慧答.pptx) |
+| 思源智教 | [下载项目 PPT](https://github.com/fucheng2004/TOP-competition-resources/raw/refs/heads/main/思源智教/思源智教.pptx) |
+
+> PPT 和视频由 Git LFS 存储。通过 **Code → Download ZIP** 下载的压缩包可能仅包含 LFS 指针；如果 PPT 只有一百多字节，或内容以 `version https://git-lfs.github.com/spec/v1` 开头，请通过上方链接重新下载。也可以在文件页面点击 **Download raw file** 下载完整原文件。
+
+需要下载完整仓库时，请先安装 [Git LFS](https://git-lfs.com/)，再运行：
+
+```bash
+git lfs install
+git clone https://github.com/fucheng2004/TOP-competition-resources.git
+cd TOP-competition-resources
+git lfs pull
+```
+
+### 阅读顺序
+
 - **快速了解项目**：先阅读作品介绍或 PPT，了解项目背景、核心功能和展示内容。
 - **查看实际效果**：进入包含演示视频的项目目录，观看功能演示。
 - **深入了解实现**：结合设计与开发文档、技术方案、接口文档或测试报告阅读。
